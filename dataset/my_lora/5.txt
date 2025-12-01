@@ -1,0 +1,3 @@
+Integrate a face into an existing scene.
+Substitute the face in the reference image with the face from the donor image. The objective is a seamless merge: the new face must inherit the exact expression, pose, and lighting interaction from the reference, while its color attributes (hair and eyes) are adapted from the donor for a perfectly harmonious and natural result.
+and hair should be black
