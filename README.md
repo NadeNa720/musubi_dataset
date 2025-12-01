@@ -305,4 +305,5 @@ Code under the `wan` directory is modified from [Wan2.1](https://github.com/Wan-
 
 Code under the `frame_pack` directory is modified from [FramePack](https://github.com/lllyasviel/FramePack). The license is under the Apache License 2.0.
 
-Other code is under the Apache License 2.0. Some code is copied and modified from Diffusers.
+Other code is under the Apache License 2.0. Some code is copied and modified from Diffusers.#   m u s u b i _ d a t a s e t  
+ 
