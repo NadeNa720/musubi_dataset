@@ -1,9 +1,0 @@
-[general]
-seed = 42
-
-[[datasets]]
-type        = "image_folder"
-img_dir     = "dataset/my_lora"
-caption_ext = ".txt"
-resolution  = 768
-shuffle     = true
